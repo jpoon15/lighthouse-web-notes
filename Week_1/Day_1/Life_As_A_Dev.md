@@ -1,4 +1,4 @@
-###Life as a Dev
+### Life as a Dev
 
 Welcome to Bootcamp!
 
@@ -12,13 +12,13 @@ We talked about keyboard shortcuts and why they were important to be able to put
 
 3. git
 
-##Git
+## Git
 
-#VCS / SCM
+# VCS / SCM
 
 Version Control Systems or Source Code Management
 
-#Track Changes in MS Word is a VCS.
+# Track Changes in MS Word is a VCS.
 
 * project.doc
 * project_v2.doc

@@ -51,8 +51,8 @@ This repository contains all of the notes and assignments for the [Lighthouse La
   * [Weekend](/Week_7/Day_WE)
   * [Ruby Math Game](https://github.com/jennypoon/ruby_math_game)
   * [Jungle](https://github.com/jennypoon/jungle-rails)
+* [Exposure - Final Project](https://github.com/alarryant/exposure)
 
 * [Advanced Topics](/advanced)
 * [Notes](/Notes)
 * [Fundamentals](/Fundamentals)
-* [Exposure](https://github.com/alarryant/exposure)

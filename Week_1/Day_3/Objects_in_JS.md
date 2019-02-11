@@ -1,6 +1,6 @@
-#Objects in JS
+# Objects in JS
 
-##Objects
+## Objects
 
 - Key-value pairs (dictionairies, hashes, hashmaps)
 - Lists of Properties
@@ -11,12 +11,12 @@
 "This is a string".length "This is a string".toLowerCase()
 ```
 
-###Looking up data in an object
+### Looking up data in an object
 
 - . - Property lookup operator
 - [] - Property lookup, but evaluated
 
-###The dreaded this
+### The dreaded this
 
 In JavaScript, this is a keyword that can be used ONLY inside of functions, and it is defined when the function is run. JavaScript will automatically set it to be a reference to the object that called the function.
 
@@ -32,7 +32,7 @@ See the this in there? Well, if I call me.sayHi() then what is left of the dot i
 
 We also talked about the difference between imperative and declarative programming.
 
-###Imperative
+### Imperative
 
 Telling the computer HOW to do what you want it to do.
 ```javascript
@@ -41,7 +41,7 @@ for(var i = 0; i < 10; i++) {
 }
 ```
 
-###Declarative
+### Declarative
 
 Telling the computer WHAT to do
 ```javascript
@@ -55,7 +55,7 @@ list.forEach(function(i) {
 
 Last, but not least, we talked about LSD.
 
-###LSD
+### LSD
 
 - Logic
 - Syntax

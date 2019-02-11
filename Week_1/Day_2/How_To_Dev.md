@@ -1,15 +1,15 @@
-#How To Dev
+# How To Dev
 
-##Mindsets
+## Mindsets
 
-##Craft Mindset
+## Craft Mindset
 
 Skill is built from
 - Information
 - Context
 - Practice
 
-##Design Mindset
+## Design Mindset
 
 - Evaluate the situation
 - Come up with a solution
@@ -17,13 +17,13 @@ Skill is built from
 - Evaluate our efforts (non-judgmental acceptance)
 - GOTO step 1
 
-##Convergence & Divergence
+## Convergence & Divergence
 
 - Convergence is: I want to build a birdhouse. What do I do * Start with a fuzzy idea * Find ways to get more specific * You end up with a very specific design and plan of action * Execute
 
 - Divergence is: I have bricks. * Build a series of escalating houses for escalating animals. * Build a fence. * Build a castle. * Hipster paperweight * Art project * Smash a window * Counterweight on a small trebuchet that throws bricks at windows. * Okay, people keep wanting me to take the bricks and build something. I should probably learn how to lay bricks.
 
-##Dev Process
+## Dev Process
 
 - Requirements
 - Plan
@@ -49,6 +49,7 @@ convert two number inputs to numbers
 add them up
 console.log them.
 Execute
+
 ```javascript
 // get command line args
 const numberArguments = process.argv.slice(2);

@@ -7,3 +7,12 @@
 [submodule "Week_5/Day_2/Assignments/todo_exercise"]
 	path = Week_5/Day_2/Assignments/todo_exercise
 	url = https://github.com/jennypoon/todo-list-js-exercise
+[submodule "Week_7/Day_1/Assignments/math_game"]
+	path = Week_7/Day_1/Assignments/math_game
+	url = https://github.com/jennypoon/ruby_math_game
+[submodule "Week_7/Day_1/Assignments/candidates"]
+	path = Week_7/Day_1/Assignments/candidates
+	url = https://gist.github.com/jennypoon/831f100d006d8100f30d13f30bfc6b74
+[submodule "Week_7/Day_1/Assignments/benchmark_block.rb"]
+	path = Week_7/Day_1/Assignments/benchmark_block.rb
+	url = https://gist.github.com/jennypoon/4e747adbd5015dd43b019e2e61205a2b

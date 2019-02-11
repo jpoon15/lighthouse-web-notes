@@ -37,7 +37,7 @@ This repository contains all of the notes and assignments for the [Lighthouse La
   * [Day 4](/Week_5/Day_4)
   * [Day 5](/Week_5/Day_5)
 * [Week 6](/Week_6)
-    [Eckgo](https://github.com/jennypoon/ChattyApp)
+  * [Eckgo](https://github.com/jennypoon/ChattyApp)
   * [Day 1](/Week_6/Day_1)
   * [Day 2](/Week_6/Day_2)
   * [Day 3](/Week_6/Day_3)

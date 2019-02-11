@@ -1,0 +1,9 @@
+[submodule "Week_5/Day_3/Assignments/crypto_app"]
+	path = Week_5/Day_3/Assignments/crypto_app
+	url = https://github.com/jennypoon/lightcoin-crypto
+[submodule "Week_5/Day_3/Assignments/fish-tank"]
+	path = Week_5/Day_3/Assignments/fish-tank
+	url = https://github.com/jennypoon/fish-tank
+[submodule "Week_5/Day_2/Assignments/todo_exercise"]
+	path = Week_5/Day_2/Assignments/todo_exercise
+	url = https://github.com/jennypoon/todo-list-js-exercise

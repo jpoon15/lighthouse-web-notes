@@ -1,0 +1,45 @@
+DROP TABLE IF EXISTS fleet CASCADE;
+DROP TABLE IF EXISTS ship CASCADE;
+DROP TABLE IF EXISTS rank CASCADE;
+DROP TABLE IF EXISTS sailor CASCADE;
+DROP TABLE IF EXISTS assignment CASCADE;
+DROP TABLE IF EXISTS ship CASCADE;
+
+
+-- FLEET
+CREATE TABLE fleet (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(50)
+);
+
+-- SHIP
+CREATE TABLE ships (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255),
+  fleet_id INTEGER REFERENCES fleets(id),
+  date_built DATE
+);
+
+-- RANK
+CREATE TABLE ranks (
+id SERIAL PRIMARY KEY,
+  name VARCHAR(255)
+);
+
+-- SAILOR
+CREATE TABLE sailors (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255),
+  date_of_birth DATE
+);
+
+-- ASSIGNMENT
+CREATE TABLE assignments (
+  id SERIAL PRIMARY KEY,
+  start_date DATE,
+  end_date DATE,
+  rank_id INTEGER REFERENCES ranks(id),
+  ship_id INTEGER REFERENCES ships(id),
+  sailor_id INTEGER REFERENCES sailors(id)
+);
+
